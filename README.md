@@ -129,7 +129,7 @@
         
         <section class="seccion-intro" style="text-align: center; padding: 40px 0;">
             <h2>Bienvenido a UMEJUMAC</h2>
-            <p style="font-size: 1.1em; color: #555;">Somos tu aliado en la convergencia de la salud, la logística y la transformación digital. Descubre nuestros tres pilares:</p>
+            <p style="font-size: 1.1em; color: #555;">Somos tu aliado</p>
         </section>
 
         <div class="seccion-principal">
